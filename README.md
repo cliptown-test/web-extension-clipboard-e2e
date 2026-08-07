@@ -18,7 +18,7 @@ Source organization: `cliptown`
 | Source | Commit | Branch observed |
 |---|---:|---|
 | `cliptown/cliptown-extension` | `02ae4a51f189f8993ed343991f0af95e5aaf4e5d` | `main` |
-| `cliptown/cliptown-clients` | `a325ea7ca9b926400d4189436a384a162810776e` | `main` |
+| `cliptown/cliptown-clients` | `5aab678c860ec748a243522883ba4f1a2bb32c66` | `main` |
 
 ## Dependency lanes
 
